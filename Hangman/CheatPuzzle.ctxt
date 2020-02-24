@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CheatPuzzle
+comment1.params=
+comment1.target=CheatPuzzle()
+comment2.params=a
+comment2.target=boolean\ makeGuess(java.lang.String)
+comment3.params=
+comment3.target=void\ show()
+comment4.params=
+comment4.target=boolean\ isUnsolved()
+comment5.params=
+comment5.target=java.lang.String\ getWord()
+numComments=6
